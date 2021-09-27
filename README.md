@@ -11,6 +11,7 @@ This is my personal repository for learning technologies of interest to me. I lo
 <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>

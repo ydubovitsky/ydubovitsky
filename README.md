@@ -1,7 +1,7 @@
 ## Hello everyone! I'm glad to see you.
 This is my personal repository for learning technologies of interest to me. I love programming, and more specifically - JavaScript, Java and related technologies.
 - [![Mail](https://img.shields.io/badge/-y.dubovitsky@gmail.com-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:y.dubovitsky@gmail.com)
-- [![a link](https://img.shields.io/badge/personal%20site-www.y--dubovitsky.ru-blue)](www.y--dubovitsky.ru)
+- [![Site](https://img.shields.io/badge/personal%20site-www.y--dubovitsky.ru-blue)](http://www.y-dubovitsky.ru)
 
 
 ## I work with

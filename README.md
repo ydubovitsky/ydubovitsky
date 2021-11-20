@@ -1,5 +1,5 @@
 ## Hello everyone! I'm glad to see you.
-This is my personal repository for learning technologies of interest to me. I love programming, and more specifically - JavaScript, React :heart:, React Native, Java and related technologies.
+This is my personal repository for learning technologies of interest to me. I love programming, especially - JavaScript, React :heart:, React Native, Java and related technologies.
 - [![Mail](https://img.shields.io/badge/-y.dubovitsky@gmail.com-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:y.dubovitsky@gmail.com)
 - [![Site](https://img.shields.io/badge/personal%20site-www.y--dubovitsky.ru-blue)](http://www.y-dubovitsky.ru)
 

@@ -12,9 +12,6 @@ This is my personal repository for learning technologies of interest to me. I lo
 <code><img height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/koajs/koajs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/redux.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
@@ -22,3 +19,4 @@ This is my personal repository for learning technologies of interest to me. I lo
 <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>

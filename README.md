@@ -1,7 +1,7 @@
 ## Hello everyone! I'm glad to see you.
 This is my personal repository for learning about technologies that interest me. I love programming, especially - JavaScript, React :heart: Redux, React Native, Java and related technologies.
 - [![Mail](https://img.shields.io/badge/-y.dubovitsky@gmail.com-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:y.dubovitsky@gmail.com)
-- [![Site](https://img.shields.io/badge/personal%20site-www.yuridubovitsky.ru-blue)](http://ydubovitsky.ru)
+- [![Site](https://img.shields.io/badge/personal%20site-www.yuridubovitsky.ru-blue)](http://yuridubovitsky.ru)
 
 
 ## I work with
